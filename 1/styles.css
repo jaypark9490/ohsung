@@ -211,7 +211,7 @@ h2 { font-size: 38px; }
 :root { --serif: 'Noto Sans KR', 'Malgun Gothic', sans-serif; }
 body { font-family: 'Noto Sans KR', 'Malgun Gothic', sans-serif; }
 .brand { width: 365px; max-width: 100%; gap: 0; }
-.brand-logo { display: block; width: 100%; height: auto; aspect-ratio: 457 / 76; object-fit: contain; }
+.brand-logo { display: block; width: 70%; height: auto; aspect-ratio: 457 / 76; object-fit: contain; }
 .footer-brand { width: 300px; }
 @media (max-width: 1100px) {
   .header-main > .brand { width: 320px; }
